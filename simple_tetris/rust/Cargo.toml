@@ -1,0 +1,9 @@
+[package]
+name = "tetris"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+test-case = "2.2.2"
